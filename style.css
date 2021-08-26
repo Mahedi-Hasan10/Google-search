@@ -1,0 +1,44 @@
+.con-tainer {
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.top-menu ul {
+    list-style: none;
+    text-align: right;
+}
+
+.top-menu ul li {
+    display: inline-block;
+}
+
+.top-menu ul li a {
+    padding: 10px 10px;
+    color: #fff;
+}
+
+.top-menu img {
+    height: 30px;
+    width: auto;
+    border-radius: 50px;
+}
+
+.searh-button input {
+    width: 70%;
+    height: 55px;
+    background: #ddd;
+    color: gray;
+    border-radius: 40px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.copyright p {
+    margin-top: 280px;
+    margin-left: 50px;
+    font-size: 18px;
+}
